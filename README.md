@@ -1,13 +1,25 @@
-# 2020_Project-51
+# My first scientific paper/Моя первая научная статья
 
-This is my first scientific paper. It is about ensemble of local models. 
+**Superviser**: Vadim Strijov
 
-Superviser: Vadim Strijov
+- [Information/Информация](https://mipt.ru/science/labs/machine-intelligence/staff/Strizhov-VV)
 
-Consultant: Andrey Grabovoy
+**Consultant**: Andrey Grabovoy
 
-Main idea: add distance to the analysis of an ensemble of local models
+- [Information/Информация](https://github.com/andriygav)
 
-#Link_Review
+**Information about the course/Информация о курсе**
 
-https://docs.google.com/document/d/1wEYR3vXzZsYEv2L51wMCBFmP7UQwIBDPn3Gpz72MIyw/edit
+- [Link to the course/Ссылка на курс](https://m1p.org/index.php/Main_Page)
+
+**Description/Описание**
+
+- Analysis of properties of an ensemble of local models. 
+
+- Анализ свойств ансамбля локальных моделей.
+
+
+
+**Link_Review**
+
+- [Link/Ссылка](https://docs.google.com/document/d/1wEYR3vXzZsYEv2L51wMCBFmP7UQwIBDPn3Gpz72MIyw/edit)
