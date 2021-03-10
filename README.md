@@ -18,8 +18,3 @@
 
 - Анализ свойств ансамбля локальных моделей.
 
-
-
-**Link Review**
-
-- [Link/Ссылка](https://docs.google.com/document/d/1wEYR3vXzZsYEv2L51wMCBFmP7UQwIBDPn3Gpz72MIyw/edit)
